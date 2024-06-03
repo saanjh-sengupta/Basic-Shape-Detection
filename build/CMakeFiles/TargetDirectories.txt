@@ -1,0 +1,3 @@
+/home/kpit/Desktop/KPIT Genesis 2024/Mini Projects/Basic Shape Detection/Shape Detection/build/CMakeFiles/rebuild_cache.dir
+/home/kpit/Desktop/KPIT Genesis 2024/Mini Projects/Basic Shape Detection/Shape Detection/build/CMakeFiles/edit_cache.dir
+/home/kpit/Desktop/KPIT Genesis 2024/Mini Projects/Basic Shape Detection/Shape Detection/build/CMakeFiles/Code.dir

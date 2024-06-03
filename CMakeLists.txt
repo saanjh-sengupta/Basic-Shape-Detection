@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.6)
+project(OpenCVStudy)
+find_package(OpenCV REQUIRED)
+add_executable(Code Code.cpp)
+target_link_libraries(Code ${OpenCV_LIBS})
