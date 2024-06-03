@@ -1,7 +1,7 @@
 ### Basic Shape Detection from an Image
 
 
-Algorithmic Overview:
+Code Flow Overview:
     
     Step 1: Include all neccessary libraries and read the image. 
 
