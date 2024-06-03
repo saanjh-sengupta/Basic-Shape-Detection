@@ -1,4 +1,4 @@
-## Basic Shape Detection from an Image
+### Basic Shape Detection from an Image
 
 
 Algorithmic Overview:
