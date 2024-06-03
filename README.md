@@ -1,5 +1,6 @@
 ## Basic Shape Detection from an Image
 
+
 Algorithmic Overview:
     
     Step 1: Include all neccessary libraries and read the image. 
@@ -47,3 +48,6 @@ Algorithmic Overview:
             -- If the ratio is not close to 1, it is then called as an ellipse. 
 
     Step 4: Displaying the result over the annotated shapes. 
+
+
+NOTE: Input image file can be accessed via the include folder.
