@@ -1,6 +1,7 @@
 ## Basic Shape Detection from an Image
 
 Algorithmic Overview:
+    
     Step 1: Include all neccessary libraries and read the image. 
 
     Step 2: Convert the image into grayscale to simplify the shape detection process. 
